@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "animated-carrousel",
+    "slug": "animated-carrousel",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "animated-carrousel"
+}
