@@ -1,0 +1,13 @@
+
+GET https://gateway.marvel.com:443/v1/public/characters/1014858?ts=1&apikey=83eb5ec5c2308241cb2fc898405aef7f&hash=cb5900056d0d68c13ac2548f4187e6fc
+Content-Type: "application/json; charset=utf-8",
+
+###
+GET http://gateway.marvel.com/v1/public/characters/1009718/comics?ts=1&apikey=83eb5ec5c2308241cb2fc898405aef7f&hash=cb5900056d0d68c13ac2548f4187e6fc
+
+Content-Type: "application/json; charset=utf-8",
+
+###
+Get https://superheroapi.com/api/4227205994026316/620
+
+
